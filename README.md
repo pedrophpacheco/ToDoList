@@ -3,7 +3,7 @@
 Esse projeto foi feito com:
 * HTML 
 * CSS  
-* Javascript
+* Vanilla Javascript
 
 ![Preview To do list](https://media.giphy.com/media/kdiOGn5Hb4GQeTVhcH/giphy.gif)
 
